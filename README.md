@@ -3,7 +3,7 @@
 A real-time token discovery dashboard built with modern web technologies.
 
 ## Live Demo
-🔗 [Vercel Deployment](#) *(add your link)*
+🔗 [Vercel Deployment](#) *https://axiom-pro-gamma.vercel.app/*
 
 ## Features
 - **3-Column Layout**: New Pairs, Final Stretch, Migrated tokens
